@@ -1,0 +1,1 @@
+rails s  -p 8080 -b $IP
